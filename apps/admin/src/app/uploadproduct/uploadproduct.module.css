@@ -1,0 +1,11 @@
+/*
+ * Replace this with your own classes
+ *
+ * e.g.
+ * .container {
+ * }
+*/
+.has-mask {
+  position: absolute;
+  clip: rect(10px, 150px, 130px, 10px);
+}/*# sourceMappingURL=uploadproduct.module.css.map */
